@@ -1,0 +1,18 @@
+
+Time tare at :14-03-2022 18:09:24, Tare Type : Set Tare, Initial Weight0 : 55.0, Update Output : -68803.0
+Time tare at :14-03-2022 18:09:30, Tare Type : Set Tare, Initial Weight0 : 131.0, Update Output : -68803.0
+Time tare at :14-03-2022 18:09:38, Tare Type : Set Tare, Initial Weight0 : 210.0, Update Output : -68803.0
+Time tare at :14-03-2022 18:09:46, Tare Type : Set Tare, Initial Weight0 : 134.0, Update Output : -68803.0
+Time tare at :14-03-2022 18:09:56, Tare Type : Set Tare, Initial Weight0 : 80.0, Update Output : -68803.0
+Time tare at :14-03-2022 18:10:39, Tare Type : Get Tare, Initial Weight0 : -1.0, Update Weight : 78.0, Initial Output : -69884.0, Update output : -68545.0
+Time tare at :14-03-2022 18:11:05, Tare Type : Get Tare, Initial Weight0 : -78.0, Update Weight : 55.0, Initial Output : -69884.0, Update output : -68536.0
+Time tare at :14-03-2022 18:11:34, Tare Type : Get Tare, Initial Weight0 : -55.0, Update Weight : 131.0, Initial Output : -69884.0, Update output : -68507.0
+Time tare at :14-03-2022 18:11:54, Tare Type : Get Tare, Initial Weight0 : -131.0, Update Weight : 210.0, Initial Output : -69884.0, Update output : -68467.0
+Time tare at :14-03-2022 18:12:06, Tare Type : Get Tare, Initial Weight0 : -210.0, Update Weight : 134.0, Initial Output : -69884.0, Update output : -68462.0
+Time tare at :24-06-2022 10:45:04, Tare Type : Get Tare, Initial Weight0 : 58.0, Update Weight : 12.0, Initial Output : -69884.0, Update output : -86687.0
+Time tare at :29-06-2022 12:42:29, Tare Type : Get Tare, Initial Weight0 : 0.0, Update Weight : 12.0, Initial Output : -69884.0, Update output : -56646.0
+Time tare at :30-06-2022 04:19:20, Tare Type : Get Tare, Initial Weight0 : 46.0, Update Weight : 12.0, Initial Output : -69884.0, Update output : -45040.0
+Time tare at :30-06-2022 11:31:18, Tare Type : Get Tare, Initial Weight0 : 0.0, Update Weight : 60.0, Initial Output : -69884.0, Update output : -56305.0
+Time tare at :30-06-2022 11:31:22, Tare Type : Get Tare, Initial Weight0 : -60.0, Update Weight : 60.0, Initial Output : -69884.0, Update output : -56366.0
+Time tare at :30-06-2022 11:31:28, Tare Type : Get Tare, Initial Weight0 : 0.0, Update Weight : 40.0, Initial Output : -69884.0, Update output : -56251.0
+Time tare at :30-06-2022 11:31:47, Tare Type : Get Tare, Initial Weight0 : -40.0, Update Weight : 20.0, Initial Output : -69884.0, Update output : -56322.0

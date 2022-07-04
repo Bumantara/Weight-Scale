@@ -1,0 +1,126 @@
+
+ Error Reason : HTTPConnectionPool(host='10.20.10.102', port=92): Max retries exceeded with url: /jwt/v1/access-token (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xafa19088>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+ At Time : 11-03-2022 17:08:41
+
+ Error Reason : local variable 'TareRequetsBeban' referenced before assignment
+ At Time : 11-03-2022 17:16:59
+
+ Error Reason : HTTPConnectionPool(host='10.20.10.102', port=92): Max retries exceeded with url: /jwt/v1/access-token (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xaf0c52b0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+ At Time : 14-03-2022 08:06:55
+
+ Error Reason : HTTPConnectionPool(host='10.20.10.102', port=92): Max retries exceeded with url: /jwt/v1/access-token (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xae6c2268>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+ At Time : 14-03-2022 07:54:21
+
+ Error Reason : could not convert string to float: 'S1'
+ At Time : 14-03-2022 13:25:45
+
+ Error Reason : name 'CodeIndentifier' is not defined
+ At Time : 14-03-2022 13:34:21
+
+ Error Reason : 'D20'
+ At Time : 14-03-2022 14:09:00
+
+ Error Reason : 'D1'
+ At Time : 14-03-2022 14:10:57
+
+ Error Reason : 'D1'
+ At Time : 14-03-2022 14:11:12
+
+ Error Reason : 'D1'
+ At Time : 14-03-2022 14:11:33
+
+ Error Reason : could not convert string to float: 'TD1'
+ At Time : 14-03-2022 14:12:09
+
+ Error Reason : float() argument must be a string or a number, not 'dict'
+ At Time : 14-03-2022 14:12:57
+
+ Error Reason : float() argument must be a string or a number, not 'dict'
+ At Time : 14-03-2022 14:14:12
+
+ Error Reason : 'TareRequetsBeban'
+ At Time : 14-03-2022 14:15:26
+
+ Error Reason : 'TareRequetsBeban'
+ At Time : 14-03-2022 14:16:09
+
+ Error Reason : float() argument must be a string or a number, not 'dict'
+ At Time : 14-03-2022 14:17:14
+
+ Error Reason : float() argument must be a string or a number, not 'dict'
+ At Time : 14-03-2022 14:17:57
+
+ Error Reason : float() argument must be a string or a number, not 'dict'
+ At Time : 14-03-2022 14:19:56
+
+ Error Reason : float() argument must be a string or a number, not 'dict'
+ At Time : 14-03-2022 14:21:51
+
+ Error Reason : name 'newa' is not defined
+ At Time : 14-03-2022 17:15:08
+
+ Error Reason : 'TD001'
+ At Time : 14-03-2022 17:18:08
+
+ Error Reason : 'TD'
+ At Time : 14-03-2022 17:29:41
+
+ Error Reason : name 'areRequetsBeban' is not defined
+ At Time : 14-03-2022 17:31:29
+
+ Error Reason : 'TD'
+ At Time : 14-03-2022 17:32:14
+
+ Error Reason : 'TD'
+ At Time : 14-03-2022 17:32:53
+
+ Error Reason : ''
+ At Time : 14-03-2022 17:33:43
+
+ Error Reason : can only concatenate str (not "float") to str
+ At Time : 14-03-2022 17:40:35
+
+ Error Reason : can only concatenate str (not "float") to str
+ At Time : 14-03-2022 17:41:56
+
+ Error Reason : TextIOWrapper.write() takes exactly one argument (2 given)
+ At Time : 14-03-2022 17:42:45
+
+ Error Reason : can only concatenate str (not "float") to str
+ At Time : 14-03-2022 17:43:28
+
+ Error Reason : 
+ At Time : 14-03-2022 17:43:37
+
+ Error Reason : can only concatenate str (not "float") to str
+ At Time : 14-03-2022 17:43:47
+
+ Error Reason : can only concatenate str (not "float") to str
+ At Time : 14-03-2022 17:45:28
+
+ Error Reason : name 'measureWeight' is not defined
+ At Time : 14-03-2022 17:48:16
+
+ Error Reason : name 'timeDisplayLogTare' is not defined
+ At Time : 14-03-2022 17:58:34
+
+ Error Reason : name 'outputOld' is not defined
+ At Time : 14-03-2022 18:02:22
+
+ Error Reason : 'Window' object has no attribute 'showWaste'
+ At Time : 18-05-2022 11:28:15
+
+ Error Reason : 'Window' object has no attribute 'showWaste'
+ At Time : 18-05-2022 11:28:16
+
+ Error Reason : 'Window' object has no attribute 'showWaste'
+ At Time : 18-05-2022 11:28:17
+
+ Error Reason : 'Window' object has no attribute 'showWaste'
+ At Time : 18-05-2022 11:28:18
+
+ Error Reason : 'Window' object has no attribute 'showWaste'
+ At Time : 18-05-2022 11:28:19
+
+ Error Reason : Expecting value: line 1 column 1 (char 0)
+ At Time : 21-06-2022 07:38:25
